@@ -1,4 +1,4 @@
-Sitemap: https://psuastro528.github.io/Fall2023/sitemap.xml
+Sitemap: https://psuastro528.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
