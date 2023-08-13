@@ -3,8 +3,7 @@ Add here global page variables to use throughout your website.
 -->
 +++
 prepath = "Fall2023"
-+++
-author = "Septimia Zenobia"
+author = "Eric Ford"
 mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
@@ -21,7 +20,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Astro 528"
 website_descr = "Penn State Astro 528: High-Performance Computing for Astrophysics"
-website_url   = "https://psuastro528.github.io/Fall2023/"
+website_url   = "https://psuastro528.github.io/"
 +++
 
 <!--
