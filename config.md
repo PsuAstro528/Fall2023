@@ -4,6 +4,7 @@ Add here global page variables to use throughout your website.
 +++
 prepath = "Fall2023"
 author = "Eric Ford"
+author_link = """<a href="https://science.psu.edu/astro/people/ebf11">Eric Ford</a>"""
 mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
@@ -17,11 +18,73 @@ mintoclevel = 2
 ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = true
+generate_rss = false
 website_title = "Astro 528"
 website_descr = "Penn State Astro 528: High-Performance Computing for Astrophysics"
-website_url   = "https://psuastro528.github.io/"
+website_url   = "https://psuastro528.github.io/Fall2023/"
+version       = "v0.1"
+
+# Class specific variables
+class_name = "High-Performance Computing for Astrophysics"
+class_number = "Astro 528"
+semester = "Fall 2023"
+#class_times = "10:10-11:00am MWF"
+#class_location = "Davey Lab 538 (MF), Online (W)"
+#class_location_long = "Davey Lab 538 (Mondays & Fridays) and Online (Wednesdays)"
+instructor_name = "Eric Ford"
+instructor_link = "[Eric Ford](https://science.psu.edu/astro/people/ebf11)"
+instructor_email = "ebf11 _at_ psu.edu"
+instructor_phone = "x3-5558"
+#ta_name = "Zhenyuan Wang"
+#ta_link = "[Zhenyuan Wang](https://science.psu.edu/astro/people/zzw173)"
+#ta_email = "zzw173 _at_ psu.edu"
+#office_hours = "Thursdays 3-4 (Davey Lab 532C) & Fridays 3-4 (online)"
+
+# Assignment deadlines
+lab1_title = "Getting Started with Labs"
+lab1_start = "Aug 24"
+lab1_due = "Aug 29"
+lab2_title = "Exploratory Data Analysis"
+lab2_start = "Aug 31"
+lab2_due = "Sept 6" # Tuesday due to Labor Day
+lab3_title = "Model Building I: Linear models"
+lab3_start = "Sept 7"
+lab3_due = "Sept 12"
+lab4_title = "Model Building II: Model Assessment"
+lab4_start = "Sept 14"
+lab4_due = "Sept 19"
+lab5_title = "Model Building III: Non-linear models & Bayesian Inference"
+lab5_start = "Sept 21"
+lab5_due = "Sept 26"
+lab6_title = "Explanatory Data Analysis"
+lab6_start = "Sept 28"
+lab6_due = "Oct 3"
+exam1_date = "Oct 5"
+lab7_title = "Data Wrangling"
+lab7_start = "Oct 12"
+lab7_due = "Oct 19"
+project_checkpoint1_title = "Project Plan"
+project_checkpoint1_due = "Oct 19"
+lab8_title = "Data Storage"
+lab8_start = "Oct 19"
+lab8_due = "Oct 26"
+project_checkpoint2_title = "Project Step 1"
+project_checkpoint2_due = "Oct 31"
+lab9_title = "Data Visualization"
+lab9_start = "Nov 2"
+lab9_due = "Nov 9"
+project_checkpoint3_title = "Project Step 2"
+project_checkpoint3_due = "Nov 14"
+project_final_title = "Project Dashboard"
+project_final_due = "Nov 28"
+project_presentation_title = "Project Presentations"
+project_presentation_due = "Dec 2 - 9"
+project_report_title = "Individual Report & Reflection"
+project_report_due = "Dec 9"
+
+hasplotly = false
 +++
+
 
 <!--
 Add here global latex commands to use throughout your pages.
