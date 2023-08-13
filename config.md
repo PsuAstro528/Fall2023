@@ -2,6 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
+prepath = "Fall2023"
 author = "Eric Ford"
 mintoclevel = 2
 
