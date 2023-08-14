@@ -81,6 +81,6 @@ Week 13-15
 - Parallel version of code (multi-core) (due {{project_parallel1_due}})
 - Second parallel version of code (distributed-memory/GPU/cloud) (due {{project_parallel2_due}})
 - Completed code, documentation, tests, packaging (optional) & reflection (due {{project_final_due}})
-- Class presentations ({{project_presentation_due}}, [ detailed schedule](https://github.com/PsuAstro528/PresentationsSchedule2023) )
+- Class presentations ({{project_presentation_due}}, [detailed schedule](https://github.com/PsuAstro528/PresentationsSchedule2023) )
 
 ---
