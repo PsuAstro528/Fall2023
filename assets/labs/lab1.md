@@ -1,5 +1,5 @@
 [Lab 1: **Tools & Fundamentals: Floating Point Arithmetic, Functions, Tests**](https://github.com/PsuAstro528/lab1-start)
-(Due Sept 2)
+(Due {{lab1_due}})
 
 - [Exercise 1](https://psuastro528.github.io/lab1-start/ex1.html): Get started using core development tools
     + [ICDS-ACI portal](http://portal.aci.ics.psu.edu/)
