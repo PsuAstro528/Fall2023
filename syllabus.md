@@ -48,6 +48,9 @@ All of these objectives may not be realized within the one-semester course, and 
 - Week 13: Cloud Computing
 - Weeks 14-15: Project Presentations
 
+## Assignments 
+\textinput{syllabus/assignments}
+
 \textinput{syllabus/readings}
 
 \textinput{syllabus/requirements}
