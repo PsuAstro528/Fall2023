@@ -84,3 +84,17 @@ function hfun_menuitem(params::Vector{String})::String
   post = "</li>"
   return string(pre, link, post)
 end
+
+function hfun_menulistitem(params::Vector{String})::String
+  @assert length(params) == 2
+  location, title = params
+
+  rpath, _ = Franklin.LOCAL_VARS["fd_rpath"] # "tutorials/linear-model.md"
+  current_location, _ = splitext(rpath)
+  active = current_location == location ? "active" : ""
+
+  pre = "<li class='menu-list-item $active'>"
+  link = "<a href='/$location/'  class='menu-list-link'>$title</a>"
+  post = "" # </li>"
+  return string(pre, link, post)
+end

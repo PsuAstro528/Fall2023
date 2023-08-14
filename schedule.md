@@ -56,7 +56,7 @@ Week 11
 Week 12
 \textinput{reading/week12}
 
-Week 13
+Week 13-15
 \textinput{reading/week13}
 
 ---
@@ -75,13 +75,12 @@ Week 13
 ---
 
 ## Class Project Schedule
-- Project proposal (due Sept 13)
-- Serial version of code (due Oct 4)
-- Peer code review (due Oct 11)
-- Parallel version of code (multi-core) (due Nov 1)
-- Second parallel version of code (distributed-memory/GPU/cloud) (due Nov 18)
-- Completed code, documentation, tests, packaging (optional) & reflection (due Dec 2)
-- Class presentations ([Nov 27 - Dec 8, detailed schedule](https://github.com/PsuAstro528/PresentationsSchedule2023) )
-
+- Project proposal (due {{project_proposal_due}})
+- Serial version of code (due {{project_serial_due}})
+- Peer code review (due {{project_codereview_due}})
+- Parallel version of code (multi-core) (due {{project_parallel1_due}})
+- Second parallel version of code (distributed-memory/GPU/cloud) (due {{project_parallel2_due}})
+- Completed code, documentation, tests, packaging (optional) & reflection (due {{project_final_due}})
+- Class presentations ({{project_presentation_due}}, [ detailed schedule](https://github.com/PsuAstro528/PresentationsSchedule2023) )
 
 ---
