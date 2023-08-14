@@ -12,8 +12,8 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-# High-Performance Scientific Computing for Astrophysics
-## Astro 528:  Fall 2023
+# Syllabus
+Astro 528: High-Performance Scientific Computing for Astrophysics (Fall 2023)
 
 ### Basic Info
 \textinput{syllabus/basic_info}
@@ -28,5 +28,32 @@ The primary goal is for students to improve their skills in scientific computing
 
 All of these objectives may not be realized within the one-semester course, and we will adapt the scope and emphasis based on student interests and programming experience.  The version of the syllabus on the course website will be updated throughout the semester.  Students should check the website regularly for updates.
 
-- [Course Schedule](lessons/)
-- [Additional Resources](resources/)
+\textinput{syllabus/prereqs}
+
+## Course Topics
+\textinput{syllabus/topics}
+
+## Course Schedule
+- Week 1: Developer Tools
+- Week 2: Priorities for Scientific Computing
+- Week 3: Scientific Software Design
+- Week 4: Modern Workstation Architectures
+- Week 5: Optimization of Serial Code
+- Week 6: Memory Systems
+- Week 7: Parallel Computing Architectures
+- Weeks 8 & 9: Parallel Programming
+- Week 10: Accelerators & GPUs
+- Week 11: GPU Programming
+- Week 12: Reproducibility
+- Week 13: Cloud Computing
+- Weeks 14-15: Project Presentations
+
+\textinput{syllabus/readings}
+
+\textinput{syllabus/requirements}
+
+\textinput{syllabus/safety}
+
+\textinput{syllabus/expectations}
+
+\textinput{syllabus/additional_statements}

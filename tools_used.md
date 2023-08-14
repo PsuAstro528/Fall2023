@@ -20,7 +20,7 @@ lastmodifieremail = "ebf11@psu.edu"
 The following notes are primarily to serve as checklists, so the instructor can efficiently and reliably get stuff done for the course.
 
 I'd be happy to learn if they are useful to others.
-Feel free to create issues with suggestions and/or to submit pull requests with improvements via the [github repo for the course website source](https://github.com/PsuAstro528/Fall2021-website-src).
+Feel free to create issues with suggestions and/or to submit pull requests with improvements via the [github repo for the course website source](https://github.com/PsuAstro528/Fall2023-website-src).
 
 
 ## [GitHub](https://github.com/PsuAstro528)
