@@ -11,8 +11,7 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-- Course: Astro 528: High-Performance Scientific Computing for Astrophysics (Fall 2023)
-- Class Meetings: 
+- Class Meeting Times: 
    - 1:25-2:15pm Mondays in Davey TBD &amp;
    - 1:15-2:55pm Wednesdays in Davey TBD
 - Instructor: Eric Ford
