@@ -7,4 +7,4 @@
 - Prior to Wednesday's class
    + _Writing Scientific Software_ Ch 17.3: Profiling (2pg)
    + [Why does Julia work so well?](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
-   + Submit [Lab 3](labs/lab3/)
+<!--     + Submit [Lab 3](labs/lab3/) -->

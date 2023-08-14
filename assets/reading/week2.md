@@ -4,4 +4,4 @@
    + [Best Practices for Scientiﬁc Computing](http://arxiv.org/pdf/1210.0530v4.pdf): Sec. 1-4 (6pg)
 - Prior to Wednesday's class
    + [Best Practices for Scientiﬁc Computing](http://arxiv.org/pdf/1210.0530v4.pdf): Sec. 5-9 (5pg)
-   + Submit [Lab 1](labs/lab1/)
+ <!--  + Submit [Lab 1](labs/lab1/) -->
