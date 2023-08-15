@@ -43,25 +43,25 @@ office_hours = "Mondays TBD (Davey Lab 408A)"
 # Assignment deadlines
 lab1_title = "Lab 1: Getting Started"
 lab1_start = "Aug 23"  # wk 1
-lab1_due = "Aug 28"    # wk 2
+lab1_due = "Aug 30"    # wk 2
 lab2_title = "Lab 2: Best Practices"
 lab2_start = "Aug 30"  # wk 2
-lab2_due = "Sept 5"    # wk 3; Tuesday due to Labor Day
+lab2_due = "Sept 6"    # wk 3; This week has Labor Day
 
 project_proposal_title = "Project: Plan"
 project_proposal_due = "Sept 6" # wk 3
 
 lab3_title = "Lab 3: Memory Heirarchy"
 lab3_start = "Sept 6"  # wk 3
-lab3_due = "Sept 11"   # wk 4
+lab3_due = "Sept 13"   # wk 4
 
 lab4_title = "Lab 4: Probablistic Programming"
 lab4_start = "Sept 13" # wk 4
-lab4_due = "Sept 18"   # wk 5
+lab4_due = "Sept 20"   # wk 5
 
 lab5_title = "Lab 5: Serial Optimization"
 lab5_start = "Sept 20" # wk 5
-lab5_due = "Sept 25"   # wk 6
+lab5_due = "Sept 27"   # wk 6
 
 project_serial_title = "Project: Serial Code"
 project_serial_due = "Oct 2"  # wk 7
@@ -70,22 +70,22 @@ project_codereview_due = "Oct 9"  # wk 8
 
 lab6_title = "Lab 6: Parallelization I"
 lab6_start = "Oct 11"  # wk 8
-lab6_due = "Oct 16"    # wk 9
+lab6_due = "Oct 18"    # wk 9
 
 lab7_title = "Lab 7: Parallelization II"
 lab7_start = "Oct 18"  # wk 9
-lab7_due = "Oct 23"    # wk 10
+lab7_due = "Oct 25"    # wk 10
 
 project_parallel1_title = "Project: Parallel Code 1"
 project_parallel1_due = "Oct 30"   # wk 11
 
 lab8_title = "Lab 8: GPU Accelerators"
 lab8_start = "Nov 1"   # wk 11
-lab8_due = "Nov 6"     # wk 12
+lab8_due = "Nov 8"     # wk 12
 
 lab9_title = "Lab 9: Reproducibility"
 lab9_start = "Nov 8"   # wk 12
-lab9_due = "Nov 13"    # wk 13
+lab9_due = "Nov 15"    # wk 13
 
 project_parallel2_title = "Project: Parallel Code 2"
 project_parallel2_due = "Nov 13"   # wk 13
