@@ -1,3 +1,6 @@
++++
+title = "Running Pluto notebooks locally"
++++
 # Running Pluto notebooks on your local computer
 
 Some students may wish to install Julia and Pluto on their local computer.

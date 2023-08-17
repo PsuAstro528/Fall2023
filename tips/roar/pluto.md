@@ -10,25 +10,27 @@ Then, each time you want to start a Jupyter notebook session on Roar, you'll fol
 Using "guest" or "incognito" mode is recommended.
 Login and authenticat (as necessary).
 
-1. Under _Interactive Apps_, choose _BYOE Jupyter Server__
+1. Under _Interactive Servers_, choose _BYOE Jupyter Server__
 1. Select:
    - Jupyter Interface: JupyterLab
-   - Use custom environment: checked/selected
-   - Environment Setup: `source /storage/group/RISE/sw7/anaconda/envs-2022.05/julia/setup` **TODO UPDATE**
-   - Ignore then box under Select a conda environment.
-   - Allocation: `ebf11_i_g_lc_default` **TODO UPDATE**
-   - Number of hours: 2 hours  (can choose longer if you plan to continue after class or outside of class)
+   - Conda environment type: "Use custom text field"
+   - Environment Setup: `source /storage/group/RISE/classroom/astro_528/scripts/env_setup`
+   - Node type: Standard Cores
+   - Account: Either "ebf11_k" or "open"
+   - Number of hours: 3  (can choose longer if you plan to continue after class or outside of class)
    - Number of cores: 4
    - Memory per core: 4 GB
-   - Node type: `ACI-b Legacy Core` **TODO UPDATE**
 1. Click _Launch_
    (Wait while your job starts.)
 1. Once the _Connect to JupyterLab Server_ button appears, click it.
    + The top row of tiles (labeled "Notebook") should include a tile labeled "Pluto.jl".  Click it.  
    + A new browser tab should open with a Pluto session.
    + The first time you open Pluto it will take a few minutes and is likely to time out.  Just wait a few minutes and try again.  (Behind the scenes, it's installing a lot of packages.)
-   + For a blank notebook, click "new notebook", or enter the path to a notebook you'd like to open in the text box under "Open from file" and click the "Open" button.
-   + Do your work, remembering to save your notebook before you quit.
+   + Open a Pluto notebook
+       - For a blank notebook, click "new notebook"
+       - To open an existing notebook, or enter the path to the notebook in the text box under "Open from file" and click the "Open" button.   (I find using tab completion is very helpful.) 
+   + Do your work in the Pluto notebook.
+   + Remembering to save your notebook before you quit.
 1. See [Starting & Submitting Assignments](/tips/labs/) for more information on accessing and submitting assignments.
 1. When you're done, close notebook tabs and click logout in upper right (of the Jupyter server session).
 1. Go back to the "My Interactive Sessions" tab in the ACI Portal, click "Delete" for this Sessions and confirm.

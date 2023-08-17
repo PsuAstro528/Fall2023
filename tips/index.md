@@ -6,7 +6,6 @@ title = "How-To's & Tips"
 - [Using Roar](roar/)
 - [Starting Pluto on Roar](labs/starting/)
 - [Creating & Submitting Labs](labs/)
-
 - [Running Pluto locally](pluto/local/)
 
 ### Add your tips
