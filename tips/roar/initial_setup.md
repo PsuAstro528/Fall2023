@@ -4,6 +4,11 @@ title = "Setup Script on Roar"
 
 ### Run Setup Script on Roar
 
+For students using Roar for the first time,
+- Open [rcportal.hpc.psu.edu](https://rcportal.hpc.psu.edu/) in your browser's guest or incognito mode.
+- Log in with your Penn State credentials (and authenticate if necessary).
+- Select Clusters._ACI Shell Access (You'll likely have to complete 2 factor authentication again.)
+
 We'll want to make a few updates to your Roar environment.  To make this easy, Justin has provided a script that you can easily run from a terminal window on Roar,
 ```shell
 bash /storage/group/RISE/classroom/astro_528/scripts/class_setup
