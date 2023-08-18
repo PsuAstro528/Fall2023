@@ -1,9 +1,9 @@
 +++
-title = "Week 14: Complete Class Project"
+title = "Week 8: Parallel Programming I"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 14101  #wwdpp
+weight = 08101  #wwdpp
 
 chapter= true
 
@@ -11,14 +11,17 @@ creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
 lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
+tags = ["weekly",]
 +++
 
 ## Goals
-\textinput{goals/week14}
+\textinput{goals/week6}
 
 ## Readings
-\textinput{reading/week14}
+\textinput{reading/week6}
 
-## Project
-\warn{Full Project Due {{project_final_due}}}
-- **[Completed class project](/project/#completed_project_due_project_final_due)**
+## Lab
+\textinput{labs/lab6}
+
+## Additional Resources
+- [Week 8, Monday](https://psuastro528.github.io/Notes-Fall2023/week8/week8.html):  Parallelization: Q&A and Scaling Laws

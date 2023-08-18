@@ -1,9 +1,9 @@
 +++
-title = "Week 4: Computer Architectures"
+title = "Week 12: Cloud Computing"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 04101  #wwdpp
+weight = 12101  #wwdpp
 
 chapter= true
 
@@ -15,15 +15,13 @@ tags = ["weekly",]
 +++
 
 ## Goals
-\textinput{goals/week4}
+\textinput{goals/week12}
 
 ## Readings
-\textinput{reading/week4}
-
-## **[Project Proposal](/project/#project_proposal_due_project_proposal_due)**
+\textinput{reading/week12}
 
 ## Lab
-\textinput{labs/lab4}
+\textinput{labs/lab9}
 
 ## Additional Resources
-- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2023/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Hierarchy
+- [Week 12, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2023/week12/week12.html):  Reproducibility:  Packages, Environments & more

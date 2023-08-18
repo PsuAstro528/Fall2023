@@ -11,6 +11,7 @@ creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
 lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
+tags = ["weekly",]
 +++
 
 ## Goals

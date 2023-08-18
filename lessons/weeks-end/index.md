@@ -1,9 +1,9 @@
 +++
-title = "Week 6: Memory Systems"
+title = "Weeks 13-15: Project Presentations"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 06101  #wwdpp
+weight = 15101  #wwdpp
 
 chapter= true
 
@@ -11,16 +11,8 @@ creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
 lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
+tags = ["weekly","project",]
 +++
 
-## Goals
-\textinput{goals/week6}
-
-## Readings
-\textinput{reading/week6}
-
-## Lab
-\textinput{labs/lab6}
-
-## Additional Resources
-- [Discussion](https://psuastro528.github.io/Notes-Fall2023/week6/week6_discuss.html):  Memory Allocation & Code Review
+## Project
+- [Presentations of Class Projects & Lessons Learned](/project/#project_presentation_due_project_presentation_due)** 

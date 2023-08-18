@@ -1,9 +1,9 @@
 +++
-title = "Week 9: Parallel Programming II"
+title = "Week 10: Accelerators & GPUs"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 09101  #wwdpp
+weight = 10101  #wwdpp
 
 chapter= true
 
@@ -11,17 +11,18 @@ creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
 lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
+tags = ["weekly",]
 +++
 
 ## Goals
-\textinput{goals/week6}
+\textinput{goals/week10}
 
 ## Readings
-\textinput{reading/week6}
+\textinput{reading/week10}
 
 ## Lab
 \textinput{labs/lab7}
 
 ## Additional Resources
-- [Week 9, Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week9/week9_discuss.html):  Using the Roar supercomputer
-- [Week 9, Monday Q&A](https://psuastro528.github.io/Notes-Fall2023/week9/week9_discuss.html):  Distributed memory programming
+- [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week10/week10_discuss.html):  GPU Computing
+- [Week 10, Wednesday Q&A](https://psuastro528.github.io/Notes-Fall2023/week10/week10_qa.html):  GPU Computing
