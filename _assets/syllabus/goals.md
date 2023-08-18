@@ -10,7 +10,7 @@ Successful students in the class will:
 -  Apply common programming patterns to analyze astronomical data or model astrophysical phenomena.  
 -  Develop a basic understanding of modern computer architectures, memory systems and programming languages.
 -  Organize code into modular functions and provide associated documentation and tests.
--  Practice applying established programming practices (e.g., version control, coding standards, unit testing)
+-  Apply established programming practices (e.g., version control, coding standards, unit testing)
 -  Perform a code review and refactor code based on feedback from peer code review.  
 -  Benchmark and profile a scientific code to identify performance-critical portions of a code and to identify sources of inefficiency.
 -  Parallelize code for shared-memory, distributed-memory and accelerator architectures.
