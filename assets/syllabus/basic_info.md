@@ -17,8 +17,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Instructor: Eric Ford
    - Email: ebf11 at psu dot edu
    - Phone: x3-5558 
-- Graduate Teaching Assistant:  TBD
-   - Email: TBD at psu dot edu
+- Graduate Teaching Assistant: Kadri Mohamad Nizam
+   - Email: 445A at psu dot edu
 - Office Hours: TBD (or by appointment) in Davey 408A or Zoom
 - Website: [https://psuastro528.github.io/Fall2023/](https://psuastro528.github.io/Fall2023/)
 
