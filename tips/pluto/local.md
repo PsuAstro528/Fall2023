@@ -1,5 +1,6 @@
 +++
 title = "Running Pluto notebooks locally"
+tags = ["tips","pluto"]
 +++
 # Running Pluto notebooks on your local computer
 

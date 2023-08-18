@@ -1,6 +1,6 @@
 +++
 title = "Ending your Roar Session"
-tags = ["tips","labs"]
+tags = ["tips","labs","icds","aci","roar"]
 +++
 
 ### Ending your Roar Session

@@ -1,5 +1,6 @@
 +++
 title = "SSH keys on ACI"
+tags = ["deprecated"]
 +++
 
 For students using Roar for the first time,

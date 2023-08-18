@@ -12,15 +12,14 @@ creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
 lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
+tags = ["labs",]
+
 +++
 
 \textinput{labs/lab2}
 
+\textinput{labs/additional_resources}
 
-### Lessons / Resources
-- [Getting Started with Julia on ACI](/tips/aci)
-- [Starting & Submitting Assignments](/tips/submitting)
-- [Julia Resources](/resources/julia)
 ## Packages used
-- [Documentation](http://docs.juliadiffeq.org/stable/) for [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl)
+- [Documentation](https://docs.sciml.ai/DiffEqDocs/stable/) for [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl)
 

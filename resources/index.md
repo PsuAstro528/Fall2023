@@ -20,6 +20,7 @@ tags = ["resources"]
 ### Additional Julia Resources
 - [Julia Manual](http://docs.julialang.org/en/v1/)
 - [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) (Lauwens & Downey; online version available for free)
+- [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
 - [Julia Language Discourse](https://discourse.julialang.org/)
 - [The Julia Language Slack](https://julialang.org/slack/)
 

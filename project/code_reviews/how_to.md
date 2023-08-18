@@ -11,6 +11,7 @@ creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
 lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
+tags = ["project","code_review",]
 +++
 
 Once you've been granted permission to a repository to review, browse to the repository on GitHub, take a look at the README (or whatever other documentation they provided).

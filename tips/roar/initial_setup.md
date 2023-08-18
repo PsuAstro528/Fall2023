@@ -1,5 +1,6 @@
 +++
 title = "Setup Script on Roar"
+tags = ["tips","getting_started","icds","aci","roar"]
 +++
 
 ### Run Setup Script on Roar

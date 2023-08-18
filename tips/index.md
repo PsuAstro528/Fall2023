@@ -1,5 +1,6 @@
 +++
 title = "How-To's & Tips"
+tags = ["tips"]
 +++
 
 # How-To's & Tips

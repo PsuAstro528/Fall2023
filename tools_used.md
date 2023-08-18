@@ -10,6 +10,7 @@ creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
 lastmodifierdisplayname = "ebf11 at psu dot edu"
 lastmodifieremail = "ebf11@psu.edu"
+tags = ["tools",]
 +++
 
 # Tools for Creating & Maintaining Course Content

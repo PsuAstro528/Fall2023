@@ -12,6 +12,8 @@ creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
 lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
+tags = ["labs",]
+
 +++
 
 \textinput{labs/lab1}
@@ -19,14 +21,4 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 If you're waiting on getting your account on ICDS-ACI, then I'd suggest that you start with exercise 3, since thinking about your goals does not require any accounts or special software.
 
-If you're still waiting on getting your account on ICDS-ACI, then you could using a local installation of Julia.
-If that gives you trouble, then you could use [JuliaHub](https://juliahub.com/) or [Binder](https://mybinder.org) to start tinkering on the assignments.    For running Pluto notebooks on Binder, you can use [Pluto.jl on Binder](https://pluto-on-binder.glitch.me/).  From the html versions linked above, click "Edit or run this notebook" in the upper right and then click the binder button.  Be patient, as it'll take a while to build a virtual machine for you to use.
-
-Note that you will not be able to save your work directly to a github repository when using Binder.  Instead, you could click the triangle and circle icon in the upper right and choose to download a "Notebook file" exiting your session.  Then you could copy it into your github repository.  While this is workable for the first few labs, you'll need to get ACI working for later assignments where performance is actually important part of the assignment.
-
-## Additional Resources
-- [Getting Started with Julia on ACI](/tips/aci)
-- [Starting & Submitting Assignments](/tips/submitting)
-- [Julia Resources](/resources/julia)
-
-
+\textinput{labs/additional_resources}

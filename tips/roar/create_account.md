@@ -1,5 +1,6 @@
 +++
 title = "Create Account on Roar Collab"
+tags = ["icds","aci","roar","getting_starts"]
 +++
 
 ### Creating an Account on Roar Collab
