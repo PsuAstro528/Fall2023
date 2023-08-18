@@ -33,7 +33,8 @@ tags = ["weekly",]
 ## Readings
 \textinput{reading/week2}
 
-## [Lab 2](/labs/lab2/)
+## Lab
+\textinput{labs/lab2}
 
 ## Additional Resources
 - [Monday Q&A](https://psuastro528.github.io/Notes-Fall2023/week2/week2_qa.html): Git

@@ -26,17 +26,13 @@ tags = ["weekly",]
 ## Readings
 \textinput{reading/week3}
 
-## [Lab 3](labs/lab3/)
+## Lab
+\textinput{labs/lab3}
 
 ## Additional Resources
-
 - [Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
 - [Wednesday Q&A](https://psuastro528.github.io/Notes-Fall2023/week3/week3_qa.html): Two-language Problem, Expert vs Non-Expert Interfaces
 
-- Julia
-   - [Julia Manual](http://docs.julialang.org/en/v1/)
-   - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-   - [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
 - File Formats
    - [FITSIO library written in C](https://heasarc.gsfc.nasa.gov/fitsio/)
    - [HDF5](https://www.hdfgroup.org/solutions/hdf5/)
@@ -56,3 +52,7 @@ tags = ["weekly",]
 - Miscelaneous
    - [Regular expressions in julia](https://docs.julialang.org/en/v1/manual/strings/index.html#Regular-Expressions-1)
    - [Astropy](http://docs.astropy.org)
+- Julia
+   - [Julia Manual](http://docs.julialang.org/en/v1/)
+   - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+   - [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)

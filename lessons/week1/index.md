@@ -32,11 +32,12 @@ tags = ["weekly",]
 ## Readings
 \textinput{reading/week1}
 
-## [Course overview](course_overview)
-## [Lab 1](labs/lab1)
+## Lab
+\textinput{labs/lab1}
 
 ## Additional Resources
-<!-- - [Wednesday Discussion](https://psuastro528.github.io/Notes-Fall2023/week1.html) -->
+- [Course overview](course_overview)
+- [Slides](https://psuastro528.github.io/Notes-Fall2023/week1_discuss.html)
 
 \textinput{getting_started_links}
 
