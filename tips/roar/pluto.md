@@ -16,7 +16,7 @@ Login and authenticat (as necessary).
    - Conda environment type: "Use custom text field"
    - Environment Setup: `source /storage/group/RISE/classroom/astro_528/scripts/env_setup`
    - Node type: Standard Cores
-   - Account: Either "ebf11_k" or "open"
+   - Account: "ebf11-fa23" (for most labs), "ebf11-fa23_p_gpu" (for labs/project using a GPU) or "open" (for using for work not for this class)
    - Number of hours: 3  (can choose longer if you plan to continue after class or outside of class)
    - Number of cores: 4
    - Memory per core: 4 GB
