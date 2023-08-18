@@ -17,4 +17,4 @@ Either is fine.
 
 \\
 
-The next step is to [run a setup script](../initial_setup/).
+Now you're ready to [open a Pluto notebook for the first lab](../pluto).

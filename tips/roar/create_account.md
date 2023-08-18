@@ -19,4 +19,4 @@ Students who already have an ACI account should contact Justin Petucci (jmp579@p
 
 \\
 
-The next step is to [setup your SSH keys](../sshkeys/)
+The next step is to [roar a setup script](../initial_setup)

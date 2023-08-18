@@ -23,8 +23,9 @@ If something does break, you can run `/storage/group/RISE/classroom/astro_528/sc
 After you exit the terminal, your next Roar session will automatically use those settings.
 
 
+The next step is to [setup git on Roar](../git).
+
 <!-- No longer required for Roar Collab
 Now you're ready to move on to [starting ](../sshkeys/)
 -->
 
-Now you're ready to move on to [starting ](../sshkeys/)

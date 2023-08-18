@@ -31,6 +31,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 ## Readings
 \textinput{reading/week1}
 
+## [Course overview](course_overview)
 ## [Lab 1](labs/lab1)
 
 ## Additional Resources
