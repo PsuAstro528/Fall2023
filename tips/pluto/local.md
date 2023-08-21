@@ -23,5 +23,5 @@ julia> Pluto.run()
 
 6.  For cloning, commiting and pushing change to GitHub, students can use the command line version of git (or an alternative git client).  
 
-Warning:  Installing julia using conda (rather than downloading the binaries directly as described above) has been known to cause problems for other students.
+\warn{Installing julia using conda (rather than downloading the binaries directly as described above) has been known to cause problems for other students.}
 

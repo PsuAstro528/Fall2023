@@ -14,6 +14,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 tags = ["weekly",]
 +++
 
+\warn{Serial implemenation ready for peer code review due {{project_codereview_due}}}
+
 ## Goals
 \textinput{goals/week7}
 
@@ -30,4 +32,3 @@ tags = ["weekly",]
 - [Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week7/week7_codereview.html):  Code Review Best Practices
 - [Wednesday Discusion](https://psuastro528.github.io/Notes-Fall2023/week7/week7_parallel.html):  Introduction to Parallelization
 
-\warn{Serial implemenation ready for peer code review due {{project_codereview_due}}}

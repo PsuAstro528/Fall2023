@@ -13,6 +13,8 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
+\warn{Second parallel implementation of project due}
+
 ## Goals
 \textinput{goals/week6}
 
@@ -20,7 +22,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 \textinput{reading/week6}
 
 ## Project 
-\note{Second parallel implementation of project due Nov 18}
 - **[Second parallel implementation of class project](project/#submit_second_parallel_version_of_code_due_project_parallel2_due)** (typically using distributed-memory or GPU)
 
 ## Lab

@@ -14,6 +14,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 tags = ["weekly",]
 +++
 
+\warn{Full Project Due {{project_final_due}}}
+
 ## Goals
 \textinput{goals/week14}
 
@@ -21,5 +23,4 @@ tags = ["weekly",]
 \textinput{reading/week14}
 
 ## Project
-\warn{Full Project Due {{project_final_due}}}
 - **[Completed class project](/project/#completed_project_due_project_final_due)**
