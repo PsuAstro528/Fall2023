@@ -1,5 +1,5 @@
 - Prior to Monday's class
-   + [Submit Project Proposal](/lessons/week4/project)
+   + [Submit Project Proposal](/project/#project_proposal_due_project_proposal_due)
    + _Writing Scientific Software_ Ch 6: Computer Organization (12pg)
    +  Either
       + _Introduction to High Performance Computing for Scientists and Engineers_ Ch 1: Modern Processors (32pg) -or-
