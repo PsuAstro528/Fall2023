@@ -33,10 +33,12 @@ Enhance your skills for scientific computing
    + Choose right tool for right task
    + Reduce time debugging
    + Improve reproducibility
-- Enable you to
-   + Analyze "Big Data"
+- Help you to write more efficient code, so you can:
+   + Build intuition more rapidly
+   + Analyze larger datasets ("Big Data")
    + Increase resolution of simulations
    + Include more complex physics
+   + Perform more analyses/simualtions to explore sensitivity to parameters/assumptions
    + Increase impact of your software
 
 ---
@@ -53,13 +55,17 @@ Enhance your skills for scientific computing
 
 ---
 ### Software Development Practices
+- Common programming paterns
+<!-- .element: class="fragment" -->
 - Version control
 <!-- .element: class="fragment" -->
-- Testing & Continuous Integration
+- Writing Tests 
+<!-- .element: class="fragment" -->
+- Continuous Integration
 <!-- .element: class="fragment" -->
 - Debugging
 <!-- .element: class="fragment" -->
-- Documenting & Literate Programming
+- Documentation/Literate Programming
 <!-- .element: class="fragment" -->
 - Coding standards
 <!-- .element: class="fragment" -->
@@ -121,12 +127,13 @@ Enhance your skills for scientific computing
 
 ---
 ## Safety 
-- I'll be wearing a mask in class.  
-- Students are welcome to wear masks, but are not expected to mask on a regular basis.
-- Please err on the side of caution
-  - If not feeling well, please stay home.
+- Students are welcome/encouraged to wear masks, but are not required to mask at this time.  (Policy may change based on government/university guidance.)
+- Please err on the side of caution:
+  - If not feeling well, please stay home.  (You can still earn full credit.)
   - If have reason to believe may have been exposed recently, please stay home or at least wear a high-quality, well-fitting mask.
   - If engage in risky activities outside of class, please consider taking precautions to mitigate risk.
+- I'll be wearing a mask in class.  
+- I'll send announcement via Canvas if any classes need to move online 
 
 ----
 ### Class discussions
