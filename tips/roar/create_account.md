@@ -13,7 +13,7 @@ On the account request form,
 
 - specify ebf11 as the sponsor account,
 - select "Roar Collab" under Linux Clusers (probably on right),
-- write "ebf11 Astro-528  Fall 2023 course" into the Research Description box, and 
+- write "ebf11 Astro-528  {{semester}} course" into the Research Description box, and 
 - leave Computational and Data Requirements box blank (since they already know what will be required for the class.)  
 
 Students who already have an ACI account should contact Justin Petucci (jmp579@psu.edu) to request that they add your account to the Astro 528 group.

@@ -14,7 +14,7 @@ tags = ["syllabus",]
 +++
 
 # Syllabus
-Astro 528: High-Performance Scientific Computing for Astrophysics (Fall 2023)
+Astro 528: High-Performance Scientific Computing for Astrophysics ({{semester}})
 
 ### Basic Info
 \textinput{syllabus/basic_info}
@@ -32,19 +32,7 @@ This course can count toward the Penn State [Graduate Minor in Computational Sci
 \textinput{syllabus/topics}
 
 ## Course Schedule
-- Week 1: Developer Tools
-- Week 2: Priorities for Scientific Computing
-- Week 3: Scientific Software Design
-- Week 4: Modern Workstation Architectures
-- Week 5: Optimization of Serial Code
-- Week 6: Memory Systems
-- Week 7: Parallel Computing Architectures
-- Weeks 8 & 9: Parallel Programming
-- Week 10: Accelerators & GPUs
-- Week 11: GPU Programming
-- Week 12: Reproducibility
-- Week 13: Cloud Computing
-- Weeks 14-15: Project Presentations
+\textinput{syllabus/schedule}
 
 The version of the syllabus on the course website will be updated throughout the semester.  Students should check the website regularly for updates.
 
