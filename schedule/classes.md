@@ -15,11 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 tags = ["schedule","classes","notes","readings"]
 +++
 
-# Class Schedule 
-\toc
-
----
-## Preparing for Class
+# Preparing for Class
 Week 1
 \textinput{reading/week1}
 
