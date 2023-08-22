@@ -1,9 +1,9 @@
 +++
-title = "Pluto Notebooks on Roar Collab"
+title = "Starting Jupyter & Pluto Notebook Servers on Roar Collab"
 tags = ["tips","labs","icds","aci","roar","pluto"]
 +++
 
-# Start Roar Session with Pluto Server
+# Start Roar Session with Jupyter & Pluto Server
 
 If this is your first time to run Pluto on Roar, then first make sure you have an account on ACI and have completed the [initial setup](../tips/roar/) steps.
 Then, each time you want to start a Jupyter notebook session on Roar, you'll follow the instructions below:
@@ -17,7 +17,8 @@ Login and authenticat (as necessary).
    - Conda environment type: "Use custom text field"
    - Environment Setup: `source /storage/group/RISE/classroom/astro_528/scripts/env_setup`
    - Node type: Standard Cores
-   - Account: "ebf11-fa23" (for most labs), "ebf11-fa23_p_gpu" (for labs/project using a GPU) or "open" (for using for work not for this class)
+   - Account: "ebf11-fa23" (for most labs), "ebf11-fa23_p_gpu" (for labs/project using a GPU) 
+   - partition: "SLA Prio"
    - Number of hours: 3  (can choose longer if you plan to continue after class or outside of class)
    - Number of cores: 4
    - Memory per core: 4 GB
