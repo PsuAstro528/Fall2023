@@ -21,8 +21,10 @@ tags = ["resources"]
 - [Julia Manual](http://docs.julialang.org/en/v1/)
 - [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) (Lauwens & Downey; online version available for free)
 - [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
+- [Julia Cheatsheet](https://cheatsheet.juliadocs.org/)
 - [Julia Language Discourse](https://discourse.julialang.org/)
 - [The Julia Language Slack](https://julialang.org/slack/)
+
 
 ### Pluto
 - [Basic Commands in Pluto](https://github.com/fonsp/Pluto.jl/wiki/%F0%9F%94%8E-Basic-Commands-in-Pluto)
