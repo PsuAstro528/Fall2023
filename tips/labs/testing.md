@@ -14,12 +14,12 @@ tags = ["tips","labs","testing"]
 cd REPO_DIR
 julia --project -e 'using Pkg; Pkg.instantiate(); Pkg.activate("test"); Pkg.instantiate(); '
 ```
-- Make sure all all the packages need to run the notebook you want to test are installed. 
+- Make sure all all the packages need to run the notebook you want to test are installed.
 ```shell
 cd REPO_DIR
 julia -e 'using Pkg, Pluto; Pluto.activate_notebook_environment("ex1.jl"); Pkg.instantiate(); '
 ```
-If there are multiple notebooks to test, then you can combine this for multiple notebook files in one command such as 
+If there are multiple notebooks to test, then you can combine this for multiple notebook files in one command such as
 ```shell
 cd REPO_DIR
 julia -e 'using Pkg, Pluto; Pluto.activate_notebook_environment("ex1.jl"); Pkg.instantiate();   Pluto.activate_notebook_environment("ex2.jl"); Pkg.instantiate(); '
@@ -36,13 +36,10 @@ cd REPO_DIR
 julia --project=test test/runtests.jl
 ```
 - Inspect the test report results and identify any areas that you want to revisit before submitting.
-- Once  you're happy with the results (or run out of time ) [commit your changes](../commit) and [submit](../submit).
+- Once  you're happy with the results (or run out of time) [commit your changes](../commit) and [submit](../submitting).
 
 ---
 ## Push commits to Github and review results of automated testing via web
 - Return to the terminal tab, make sure you're in your repo's directory.
-- Run the following commands
-```shell
-git push
-```
+- [Commit your changes](../commit) to your local repository and [submit](../submitting) by pushing to your GitHub repository.
 - For repositories that are configured to apply tests via continuous integration, you can navigate to your repository's webpage, click Actions, then look under "All Workflows" and choose "Test notebooks".  There will be some tests of early versions that have red x's next to them.  Hopefully, your latest submission (typically at the top of the list) will have a green checkbox next to it.  If not, then you can click on that commit string, then click "test (...)" and see the results of the continuous integration tests.
