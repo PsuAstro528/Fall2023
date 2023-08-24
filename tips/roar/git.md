@@ -18,4 +18,4 @@ Either is fine.
 
 \\
 
-Now you're ready to [open a Pluto notebook for the first lab](../pluto).
+Now you're ready to [add your Roar Collab ssh keys to GitHub](../sshkeys).
