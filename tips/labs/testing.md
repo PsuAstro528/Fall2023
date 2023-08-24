@@ -9,10 +9,31 @@ tags = ["tips","labs","testing"]
 
 ## Running automated tests on your system
 - When you're done with a notebook, make sure it is saved (Ctrl+S) and close the tab.
-- [Test your code](testing) on ACI (or you local computer) using
+- Make sure all the packages needed to run your test code are installed.  
 ```shell
 cd REPO_DIR
-julia --project -e 'using Pkg; Pkg.instantiate(); '
+julia --project -e 'using Pkg; Pkg.instantiate(); Pkg.activate("test"); Pkg.instantiate(); '
+```
+- Make sure all all the packages need to run the notebook you want to test are installed. 
+```shell
+cd REPO_DIR
+julia -e 'using Pkg, Pluto; Pluto.activate_notebook_environment("ex1.jl"); Pkg.instantiate(); '
+```
+If there are multiple notebooks to test, then you can combine this for multiple notebook files in one command such as 
+```shell
+cd REPO_DIR
+julia -e 'using Pkg, Pluto; Pluto.activate_notebook_environment("ex1.jl"); Pkg.instantiate();   Pluto.activate_notebook_environment("ex2.jl"); Pkg.instantiate(); '
+```
+In many cases this step will be unnecessary because the packages will have been installed what you ran the Pluto notebook.  But this can become important in some scenarios such as if you've done some work within a notebook on another computer.
+- Run the tests for first notebook using a command like
+```shell
+cd REPO_DIR
+julia --project=test test/runtest1.jl
+```
+or run tets for all the notebooks like
+```shell
+cd REPO_DIR
+julia --project=test test/runtests.jl
 ```
 - Inspect the test report results and identify any areas that you want to revisit before submitting.
 - Once  you're happy with the results (or run out of time ) [commit your changes](../commit) and [submit](../submit).
