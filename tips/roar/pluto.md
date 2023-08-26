@@ -35,4 +35,4 @@ Login and authenticat (as necessary).
    + Remembering to save your notebook before you quit.
 1. See [Starting & Submitting Assignments](/tips/labs/) for more information on accessing and submitting assignments.
 1. When you're done, close notebook tabs and click logout in upper right (of the Jupyter server session).
-1. Go back to the "My Interactive Sessions" tab in the ACI Portal, click "Delete" for this Sessions and confirm.
+1. Go back to the "My Interactive Sessions" tab in the Roar Collab Portal, click "Delete" for this Sessions and confirm.
