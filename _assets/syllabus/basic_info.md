@@ -13,7 +13,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 - Class Meeting Times: 
    - 1:25-2:15pm Mondays in Davey 538 &amp;
-   - 1:15-2:55pm Wednesdays in Davey 441
+   - 1:15-2:55pm Wednesdays in Davey 441 (optionally Davey 432, too)
 - Instructor: Eric Ford
    - Email: ebf11 at psu dot edu
    - Phone: x3-5558 

@@ -14,7 +14,7 @@ tags = ["tips","labs","testing"]
 cd REPO_DIR
 julia --project -e 'using Pkg; Pkg.instantiate(); Pkg.activate("test"); Pkg.instantiate(); '
 ```
-- Make sure all all the packages need to run the notebook you want to test are installed.
+- Make sure all all the packages need to run the notebook you want to test are installed.  For example, for a notebook named `ex1.jl`, you would do
 ```shell
 cd REPO_DIR
 julia -e 'using Pkg, Pluto; Pluto.activate_notebook_environment("ex1.jl"); Pkg.instantiate(); '
