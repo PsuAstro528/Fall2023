@@ -11,14 +11,13 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-- Class Meeting Times: 
+- Class Meeting Times:
    - 1:25-2:15pm Mondays in Davey 538 &amp;
-   - 1:15-2:55pm Wednesdays in Davey 441 (optionally Davey 432, too)
+   - 1:15-2:55pm Wednesdays in Davey 538 (optionally Davey 432, too)
 - Instructor: Eric Ford
    - Email: ebf11 at psu dot edu
-   - Phone: x3-5558 
+   - Phone: x3-5558
 - Graduate Teaching Assistant: Kadri Mohamad Nizam
    - Email: 445A at psu dot edu
-- Office Hours: TBD (or by appointment) in Davey 408A or Zoom
+- Office Hours: Monday 2:15-3pm, Wednesday (3-3:30pm), or by appointment in Davey 408A or Zoom
 - Website: [https://psuastro528.github.io/Fall2023/](https://psuastro528.github.io/Fall2023/)
-
