@@ -29,6 +29,4 @@ tags = ["weekly",]
 - **[Serial implementation of class project](/project/#serial_version_of_code_due_project_serial_due)**
 
 ## Additional Resources
-- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week7/week7_codereview.html):  Code Review Best Practices
-- [Wednesday Discusion](https://psuastro528.github.io/Notes-Fall2023/week7/week7_parallel.html):  Introduction to Parallelization
-
+- [Monday Discusion](https://psuastro528.github.io/Notes-Fall2023/week7/week7_parallel.html):  Introduction to Parallelization
