@@ -41,10 +41,10 @@ If possible, try to include the results of benchmarking and/or profiling in the 
 
 ### Peer Code Reviews (due {{project_codereview_due}})
 #### Instructions
-- [How to prepare your code for review](/project/code_review/prep)
-- [How to perform a code review](/project/code_review/prephow_to)
-- [How to follow-up on code review](/project/code_review/prepfollow_up)
-For more information, see [instructions for code review](project/code_reviews).
+- [How to prepare your code for review](code_reviews/prep)
+- [How to perform a code review](code_reviews/how_to)
+- [How to follow-up on code review](code_reviews/follow_up)
+For more information, see [instructions for code review](code_reviews).
 
 #### Rubric
 \textinput{rubrics/code_review}

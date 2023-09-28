@@ -14,9 +14,9 @@ tags = ["project","code_review",]
 
 # Peer Code Review
 
-- [How to prepare your code for review](/project/code_review/prep)
-- [How to perform a code review](/project/code_review/prephow_to)
-- [How to follow-up on code review](/project/code_review/prepfollow_up)
+- [How to prepare your code for review](prep)
+- [How to perform a code review](how_to)
+- [How to follow-up on code review](follow_up)
 
 ## Additional resources with various perspectives on how to conduct an effective code review
 
