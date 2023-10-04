@@ -14,7 +14,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 tags = ["weekly",]
 +++
 
-\warn{Serial implemenation ready for peer code review due {{project_codereview_due}}}
+\warn{Serial implemenation ready for peer code review due {{project_serial_due}}}
 
 ## Goals
 \textinput{goals/week7}
