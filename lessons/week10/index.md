@@ -24,5 +24,5 @@ tags = ["weekly",]
 \textinput{labs/lab7}
 
 ## Additional Resources
-- [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week10/week10_discuss.html):  GPU Computing
-- [Week 10, Wednesday Q&A](https://psuastro528.github.io/Notes-Fall2023/week10/week10_qa.html):  GPU Computing
+- [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week10/week10.html):  GPU Computing
+
