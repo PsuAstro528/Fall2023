@@ -21,7 +21,7 @@ tags = ["weekly",]
 \textinput{reading/week10}
 
 ## Lab
-\textinput{labs/lab7}
+\textinput{labs/lab8}
 
 ## Additional Resources
 - [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2023/week10/week10.html):  GPU Computing
