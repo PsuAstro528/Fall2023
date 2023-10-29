@@ -1,5 +1,5 @@
 - Lab 8, Exercise 1
-   - Run GPU code on ICDS-ACI/Roar
+   - Run GPU code on Roar Collab
    - Accelerate linear algebra computations with GPU
    - Recognize what problem sizes and likely to result in acceleration with a GPU for linear algebra
 - Lab 8, Exercise 2:
