@@ -30,5 +30,5 @@ tags = ["weekly",]
 \textinput{labs/lab8}
 
 ## Additional Resources
-- [Slides](https://psuastro528.github.io/Notes-Fall2023/week11/week11.html):  Priorities, Q&A Parallel Random Number Generators, Autodiff on GPUs
+- [Slides](https://psuastro528.github.io/Notes-Fall2023/week11/week11.html):  Priorities, Build Systems, Parallel Random Number Generators, Q&A, Autodiff on GPUs
 
